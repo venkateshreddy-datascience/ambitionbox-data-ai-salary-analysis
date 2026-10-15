@@ -1,0 +1,1126 @@
+role,location,skill,job_count
+Data Analyst,All India,Python,39584
+Data Analyst,All India,Sql,32398
+Data Analyst,All India,Analytics,21383
+Data Analyst,All India,Analytical,20407
+Data Analyst,All India,Excel,15328
+Data Analyst,All India,Data Analysis,12967
+Data Analyst,All India,Machine Learning,10343
+Data Analyst,All India,Data Management,7008
+Data Analyst,All India,Data Quality,5198
+Data Analyst,All India,Data Analytics,4948
+Data Analyst,All India,Power Bi,4313
+Data Analyst,All India,Advanced Excel,2988
+Data Analyst,All India,Data Visualization,2420
+Data Analyst,All India,Tableau,2365
+Data Analyst,All India,Data Mining,1162
+Data Analyst,Bengaluru,Python,39864
+Data Analyst,Bengaluru,Sql,32838
+Data Analyst,Bengaluru,Analytics,21548
+Data Analyst,Bengaluru,Analytical,20777
+Data Analyst,Bengaluru,Excel,15420
+Data Analyst,Bengaluru,Data Analysis,12973
+Data Analyst,Bengaluru,Machine Learning,10360
+Data Analyst,Bengaluru,Data Management,7042
+Data Analyst,Bengaluru,Data Quality,5246
+Data Analyst,Bengaluru,Data Analytics,4913
+Data Analyst,Bengaluru,Power Bi,4345
+Data Analyst,Bengaluru,Advanced Excel,3024
+Data Analyst,Bengaluru,Data Visualization,2427
+Data Analyst,Bengaluru,Tableau,2389
+Data Analyst,Bengaluru,Data Mining,1137
+Data Analyst,Hyderabad,Python,39855
+Data Analyst,Hyderabad,Sql,32835
+Data Analyst,Hyderabad,Analytics,21540
+Data Analyst,Hyderabad,Analytical,20766
+Data Analyst,Hyderabad,Excel,15419
+Data Analyst,Hyderabad,Data Analysis,12967
+Data Analyst,Hyderabad,Machine Learning,10358
+Data Analyst,Hyderabad,Data Management,7042
+Data Analyst,Hyderabad,Data Quality,5242
+Data Analyst,Hyderabad,Data Analytics,4912
+Data Analyst,Hyderabad,Power Bi,4344
+Data Analyst,Hyderabad,Advanced Excel,3023
+Data Analyst,Hyderabad,Data Visualization,2426
+Data Analyst,Hyderabad,Tableau,2389
+Data Analyst,Hyderabad,Data Mining,1135
+Data Analyst,Pune,Python,39713
+Data Analyst,Pune,Sql,32603
+Data Analyst,Pune,Analytics,21557
+Data Analyst,Pune,Analytical,20875
+Data Analyst,Pune,Excel,15414
+Data Analyst,Pune,Data Analysis,13017
+Data Analyst,Pune,Machine Learning,10354
+Data Analyst,Pune,Data Management,7063
+Data Analyst,Pune,Data Quality,5255
+Data Analyst,Pune,Data Analytics,4906
+Data Analyst,Pune,Power Bi,4320
+Data Analyst,Pune,Advanced Excel,3015
+Data Analyst,Pune,Data Visualization,2416
+Data Analyst,Pune,Tableau,2373
+Data Analyst,Pune,Data Mining,1141
+Data Analyst,Mumbai,Python,39855
+Data Analyst,Mumbai,Sql,32833
+Data Analyst,Mumbai,Analytics,21539
+Data Analyst,Mumbai,Analytical,20763
+Data Analyst,Mumbai,Excel,15419
+Data Analyst,Mumbai,Data Analysis,12965
+Data Analyst,Mumbai,Machine Learning,10358
+Data Analyst,Mumbai,Data Management,7041
+Data Analyst,Mumbai,Data Quality,5242
+Data Analyst,Mumbai,Data Analytics,4912
+Data Analyst,Mumbai,Power Bi,4344
+Data Analyst,Mumbai,Advanced Excel,3023
+Data Analyst,Mumbai,Data Visualization,2426
+Data Analyst,Mumbai,Tableau,2389
+Data Analyst,Mumbai,Data Mining,1133
+Data Analyst,Gurgaon,Python,39855
+Data Analyst,Gurgaon,Sql,32833
+Data Analyst,Gurgaon,Analytics,21539
+Data Analyst,Gurgaon,Analytical,20763
+Data Analyst,Gurgaon,Excel,15419
+Data Analyst,Gurgaon,Data Analysis,12965
+Data Analyst,Gurgaon,Machine Learning,10358
+Data Analyst,Gurgaon,Data Management,7040
+Data Analyst,Gurgaon,Data Quality,5242
+Data Analyst,Gurgaon,Data Analytics,4912
+Data Analyst,Gurgaon,Power Bi,4344
+Data Analyst,Gurgaon,Advanced Excel,3023
+Data Analyst,Gurgaon,Data Visualization,2426
+Data Analyst,Gurgaon,Tableau,2389
+Data Analyst,Gurgaon,Data Mining,1133
+Data Analyst,Chennai,Python,39855
+Data Analyst,Chennai,Sql,32833
+Data Analyst,Chennai,Analytics,21539
+Data Analyst,Chennai,Analytical,20763
+Data Analyst,Chennai,Excel,15419
+Data Analyst,Chennai,Data Analysis,12961
+Data Analyst,Chennai,Machine Learning,10358
+Data Analyst,Chennai,Data Management,7040
+Data Analyst,Chennai,Data Quality,5242
+Data Analyst,Chennai,Data Analytics,4912
+Data Analyst,Chennai,Power Bi,4344
+Data Analyst,Chennai,Advanced Excel,3023
+Data Analyst,Chennai,Data Visualization,2426
+Data Analyst,Chennai,Tableau,2389
+Data Analyst,Chennai,Data Mining,1133
+Data Analyst,New Delhi,Python,41170
+Data Analyst,New Delhi,Sql,33516
+Data Analyst,New Delhi,Analytics,22556
+Data Analyst,New Delhi,Analytical,20626
+Data Analyst,New Delhi,Excel,15405
+Data Analyst,New Delhi,Data Analysis,13256
+Data Analyst,New Delhi,Machine Learning,10577
+Data Analyst,New Delhi,Data Management,7071
+Data Analyst,New Delhi,Data Quality,5377
+Data Analyst,New Delhi,Data Analytics,5018
+Data Analyst,New Delhi,Power Bi,4485
+Data Analyst,New Delhi,Advanced Excel,3048
+Data Analyst,New Delhi,Data Visualization,2443
+Data Analyst,New Delhi,Tableau,2406
+Data Analyst,New Delhi,Data Mining,1129
+Data Analyst,Noida,Python,41170
+Data Analyst,Noida,Sql,33516
+Data Analyst,Noida,Analytics,22556
+Data Analyst,Noida,Analytical,20626
+Data Analyst,Noida,Excel,15405
+Data Analyst,Noida,Data Analysis,13256
+Data Analyst,Noida,Machine Learning,10577
+Data Analyst,Noida,Data Management,7071
+Data Analyst,Noida,Data Quality,5377
+Data Analyst,Noida,Data Analytics,5018
+Data Analyst,Noida,Power Bi,4485
+Data Analyst,Noida,Advanced Excel,3048
+Data Analyst,Noida,Data Visualization,2443
+Data Analyst,Noida,Tableau,2406
+Data Analyst,Noida,Data Mining,1129
+Data Scientist,All India,Python,39562
+Data Scientist,All India,Sql,32379
+Data Scientist,All India,Analytics,21369
+Data Scientist,All India,Data Analysis,12960
+Data Scientist,All India,Artificial Intelligence,11042
+Data Scientist,All India,Machine Learning,10334
+Data Scientist,All India,Data Science,5003
+Data Scientist,All India,Data Analytics,4940
+Data Scientist,All India,Deep Learning,2812
+Data Scientist,All India,Natural Language Processing,2063
+Data Scientist,All India,Tensorflow,1679
+Data Scientist,All India,R,1289
+Data Scientist,All India,Data Mining,1162
+Data Scientist,All India,Predictive Modeling,746
+Data Scientist,All India,Statistical Modeling,616
+Data Scientist,Bengaluru,Python,39863
+Data Scientist,Bengaluru,Sql,32838
+Data Scientist,Bengaluru,Analytics,21548
+Data Scientist,Bengaluru,Data Analysis,12973
+Data Scientist,Bengaluru,Artificial Intelligence,11016
+Data Scientist,Bengaluru,Machine Learning,10360
+Data Scientist,Bengaluru,Data Science,4997
+Data Scientist,Bengaluru,Data Analytics,4913
+Data Scientist,Bengaluru,Deep Learning,2843
+Data Scientist,Bengaluru,Natural Language Processing,2097
+Data Scientist,Bengaluru,Tensorflow,1681
+Data Scientist,Bengaluru,R,1276
+Data Scientist,Bengaluru,Data Mining,1137
+Data Scientist,Bengaluru,Predictive Modeling,739
+Data Scientist,Bengaluru,Statistical Modeling,603
+Data Scientist,Hyderabad,Python,41170
+Data Scientist,Hyderabad,Sql,33516
+Data Scientist,Hyderabad,Analytics,22556
+Data Scientist,Hyderabad,Data Analysis,13256
+Data Scientist,Hyderabad,Artificial Intelligence,11360
+Data Scientist,Hyderabad,Machine Learning,10577
+Data Scientist,Hyderabad,Data Science,5189
+Data Scientist,Hyderabad,Data Analytics,5018
+Data Scientist,Hyderabad,Deep Learning,2985
+Data Scientist,Hyderabad,Natural Language Processing,2130
+Data Scientist,Hyderabad,Tensorflow,1801
+Data Scientist,Hyderabad,R,1285
+Data Scientist,Hyderabad,Data Mining,1129
+Data Scientist,Hyderabad,Predictive Modeling,781
+Data Scientist,Hyderabad,Statistical Modeling,624
+Data Scientist,Pune,Python,39713
+Data Scientist,Pune,Sql,32603
+Data Scientist,Pune,Analytics,21557
+Data Scientist,Pune,Data Analysis,13017
+Data Scientist,Pune,Artificial Intelligence,11078
+Data Scientist,Pune,Machine Learning,10354
+Data Scientist,Pune,Data Science,4998
+Data Scientist,Pune,Data Analytics,4906
+Data Scientist,Pune,Deep Learning,2835
+Data Scientist,Pune,Natural Language Processing,2088
+Data Scientist,Pune,Tensorflow,1678
+Data Scientist,Pune,R,1278
+Data Scientist,Pune,Data Mining,1141
+Data Scientist,Pune,Predictive Modeling,743
+Data Scientist,Pune,Statistical Modeling,606
+Data Scientist,Mumbai,Python,41170
+Data Scientist,Mumbai,Sql,33516
+Data Scientist,Mumbai,Analytics,22556
+Data Scientist,Mumbai,Data Analysis,13256
+Data Scientist,Mumbai,Artificial Intelligence,11360
+Data Scientist,Mumbai,Machine Learning,10577
+Data Scientist,Mumbai,Data Science,5189
+Data Scientist,Mumbai,Data Analytics,5018
+Data Scientist,Mumbai,Deep Learning,2985
+Data Scientist,Mumbai,Natural Language Processing,2130
+Data Scientist,Mumbai,Tensorflow,1801
+Data Scientist,Mumbai,R,1285
+Data Scientist,Mumbai,Data Mining,1129
+Data Scientist,Mumbai,Predictive Modeling,781
+Data Scientist,Mumbai,Statistical Modeling,624
+Data Scientist,Gurgaon,Python,41170
+Data Scientist,Gurgaon,Sql,33516
+Data Scientist,Gurgaon,Analytics,22556
+Data Scientist,Gurgaon,Data Analysis,13256
+Data Scientist,Gurgaon,Artificial Intelligence,11360
+Data Scientist,Gurgaon,Machine Learning,10577
+Data Scientist,Gurgaon,Data Science,5189
+Data Scientist,Gurgaon,Data Analytics,5018
+Data Scientist,Gurgaon,Deep Learning,2985
+Data Scientist,Gurgaon,Natural Language Processing,2130
+Data Scientist,Gurgaon,Tensorflow,1801
+Data Scientist,Gurgaon,R,1285
+Data Scientist,Gurgaon,Data Mining,1129
+Data Scientist,Gurgaon,Predictive Modeling,781
+Data Scientist,Gurgaon,Statistical Modeling,624
+Data Scientist,Chennai,Python,41170
+Data Scientist,Chennai,Sql,33516
+Data Scientist,Chennai,Analytics,22556
+Data Scientist,Chennai,Data Analysis,13256
+Data Scientist,Chennai,Artificial Intelligence,11360
+Data Scientist,Chennai,Machine Learning,10577
+Data Scientist,Chennai,Data Science,5189
+Data Scientist,Chennai,Data Analytics,5018
+Data Scientist,Chennai,Deep Learning,2985
+Data Scientist,Chennai,Natural Language Processing,2130
+Data Scientist,Chennai,Tensorflow,1801
+Data Scientist,Chennai,R,1285
+Data Scientist,Chennai,Data Mining,1129
+Data Scientist,Chennai,Predictive Modeling,781
+Data Scientist,Chennai,Statistical Modeling,624
+Data Scientist,New Delhi,Python,39853
+Data Scientist,New Delhi,Sql,32829
+Data Scientist,New Delhi,Analytics,21536
+Data Scientist,New Delhi,Data Analysis,12958
+Data Scientist,New Delhi,Artificial Intelligence,11014
+Data Scientist,New Delhi,Machine Learning,10356
+Data Scientist,New Delhi,Data Science,4995
+Data Scientist,New Delhi,Data Analytics,4911
+Data Scientist,New Delhi,Deep Learning,2843
+Data Scientist,New Delhi,Natural Language Processing,2097
+Data Scientist,New Delhi,Tensorflow,1680
+Data Scientist,New Delhi,R,1276
+Data Scientist,New Delhi,Data Mining,1133
+Data Scientist,New Delhi,Predictive Modeling,739
+Data Scientist,New Delhi,Statistical Modeling,603
+Data Scientist,Noida,Python,41169
+Data Scientist,Noida,Sql,33517
+Data Scientist,Noida,Analytics,22556
+Data Scientist,Noida,Data Analysis,13256
+Data Scientist,Noida,Artificial Intelligence,11360
+Data Scientist,Noida,Machine Learning,10577
+Data Scientist,Noida,Data Science,5189
+Data Scientist,Noida,Data Analytics,5018
+Data Scientist,Noida,Deep Learning,2985
+Data Scientist,Noida,Natural Language Processing,2130
+Data Scientist,Noida,Tensorflow,1801
+Data Scientist,Noida,R,1285
+Data Scientist,Noida,Data Mining,1129
+Data Scientist,Noida,Predictive Modeling,781
+Data Scientist,Noida,Statistical Modeling,624
+Senior Data Scientist,All India,Python,39851
+Senior Data Scientist,All India,Sql,32827
+Senior Data Scientist,All India,Analytics,21533
+Senior Data Scientist,All India,Analytical,20755
+Senior Data Scientist,All India,Aws,20432
+Senior Data Scientist,All India,Data Analysis,12958
+Senior Data Scientist,All India,Artificial Intelligence,11014
+Senior Data Scientist,All India,Machine Learning,10356
+Senior Data Scientist,All India,Data Science,4995
+Senior Data Scientist,All India,Data Analytics,4911
+Senior Data Scientist,All India,Deep Learning,2843
+Senior Data Scientist,All India,Natural Language Processing,2097
+Senior Data Scientist,All India,Tensorflow,1680
+Senior Data Scientist,All India,R,1276
+Senior Data Scientist,All India,Predictive Modeling,739
+Senior Data Scientist,Bengaluru,Python,39851
+Senior Data Scientist,Bengaluru,Sql,32827
+Senior Data Scientist,Bengaluru,Analytics,21533
+Senior Data Scientist,Bengaluru,Analytical,20754
+Senior Data Scientist,Bengaluru,Aws,20432
+Senior Data Scientist,Bengaluru,Data Analysis,12958
+Senior Data Scientist,Bengaluru,Artificial Intelligence,11014
+Senior Data Scientist,Bengaluru,Machine Learning,10356
+Senior Data Scientist,Bengaluru,Data Science,4995
+Senior Data Scientist,Bengaluru,Data Analytics,4911
+Senior Data Scientist,Bengaluru,Deep Learning,2843
+Senior Data Scientist,Bengaluru,Natural Language Processing,2097
+Senior Data Scientist,Bengaluru,Tensorflow,1680
+Senior Data Scientist,Bengaluru,R,1276
+Senior Data Scientist,Bengaluru,Predictive Modeling,739
+Senior Data Scientist,Hyderabad,Python,39851
+Senior Data Scientist,Hyderabad,Sql,32827
+Senior Data Scientist,Hyderabad,Analytics,21533
+Senior Data Scientist,Hyderabad,Analytical,20752
+Senior Data Scientist,Hyderabad,Aws,20432
+Senior Data Scientist,Hyderabad,Data Analysis,12958
+Senior Data Scientist,Hyderabad,Artificial Intelligence,11014
+Senior Data Scientist,Hyderabad,Machine Learning,10356
+Senior Data Scientist,Hyderabad,Data Science,4995
+Senior Data Scientist,Hyderabad,Data Analytics,4911
+Senior Data Scientist,Hyderabad,Deep Learning,2843
+Senior Data Scientist,Hyderabad,Natural Language Processing,2097
+Senior Data Scientist,Hyderabad,Tensorflow,1680
+Senior Data Scientist,Hyderabad,R,1276
+Senior Data Scientist,Hyderabad,Predictive Modeling,739
+Senior Data Scientist,Pune,Python,41170
+Senior Data Scientist,Pune,Sql,33519
+Senior Data Scientist,Pune,Analytics,22556
+Senior Data Scientist,Pune,Aws,21532
+Senior Data Scientist,Pune,Analytical,20627
+Senior Data Scientist,Pune,Data Analysis,13257
+Senior Data Scientist,Pune,Artificial Intelligence,11360
+Senior Data Scientist,Pune,Machine Learning,10576
+Senior Data Scientist,Pune,Data Science,5189
+Senior Data Scientist,Pune,Data Analytics,5018
+Senior Data Scientist,Pune,Deep Learning,2985
+Senior Data Scientist,Pune,Natural Language Processing,2130
+Senior Data Scientist,Pune,Tensorflow,1801
+Senior Data Scientist,Pune,R,1285
+Senior Data Scientist,Pune,Predictive Modeling,781
+Senior Data Scientist,Mumbai,Python,41170
+Senior Data Scientist,Mumbai,Sql,33519
+Senior Data Scientist,Mumbai,Analytics,22556
+Senior Data Scientist,Mumbai,Aws,21532
+Senior Data Scientist,Mumbai,Analytical,20627
+Senior Data Scientist,Mumbai,Data Analysis,13257
+Senior Data Scientist,Mumbai,Artificial Intelligence,11360
+Senior Data Scientist,Mumbai,Machine Learning,10576
+Senior Data Scientist,Mumbai,Data Science,5189
+Senior Data Scientist,Mumbai,Data Analytics,5018
+Senior Data Scientist,Mumbai,Deep Learning,2985
+Senior Data Scientist,Mumbai,Natural Language Processing,2130
+Senior Data Scientist,Mumbai,Tensorflow,1801
+Senior Data Scientist,Mumbai,R,1285
+Senior Data Scientist,Mumbai,Predictive Modeling,781
+Senior Data Scientist,Gurgaon,Python,39850
+Senior Data Scientist,Gurgaon,Sql,32826
+Senior Data Scientist,Gurgaon,Analytics,21533
+Senior Data Scientist,Gurgaon,Analytical,20750
+Senior Data Scientist,Gurgaon,Aws,20432
+Senior Data Scientist,Gurgaon,Data Analysis,12958
+Senior Data Scientist,Gurgaon,Artificial Intelligence,11014
+Senior Data Scientist,Gurgaon,Machine Learning,10356
+Senior Data Scientist,Gurgaon,Data Science,4995
+Senior Data Scientist,Gurgaon,Data Analytics,4911
+Senior Data Scientist,Gurgaon,Deep Learning,2843
+Senior Data Scientist,Gurgaon,Natural Language Processing,2097
+Senior Data Scientist,Gurgaon,Tensorflow,1680
+Senior Data Scientist,Gurgaon,R,1276
+Senior Data Scientist,Gurgaon,Predictive Modeling,739
+Senior Data Scientist,Chennai,Python,39850
+Senior Data Scientist,Chennai,Sql,32826
+Senior Data Scientist,Chennai,Analytics,21533
+Senior Data Scientist,Chennai,Analytical,20749
+Senior Data Scientist,Chennai,Aws,20432
+Senior Data Scientist,Chennai,Data Analysis,12958
+Senior Data Scientist,Chennai,Artificial Intelligence,11014
+Senior Data Scientist,Chennai,Machine Learning,10356
+Senior Data Scientist,Chennai,Data Science,4995
+Senior Data Scientist,Chennai,Data Analytics,4911
+Senior Data Scientist,Chennai,Deep Learning,2843
+Senior Data Scientist,Chennai,Natural Language Processing,2097
+Senior Data Scientist,Chennai,Tensorflow,1680
+Senior Data Scientist,Chennai,R,1276
+Senior Data Scientist,Chennai,Predictive Modeling,739
+Senior Data Scientist,New Delhi,Python,41170
+Senior Data Scientist,New Delhi,Sql,33519
+Senior Data Scientist,New Delhi,Analytics,22556
+Senior Data Scientist,New Delhi,Aws,21532
+Senior Data Scientist,New Delhi,Analytical,20627
+Senior Data Scientist,New Delhi,Data Analysis,13257
+Senior Data Scientist,New Delhi,Artificial Intelligence,11361
+Senior Data Scientist,New Delhi,Machine Learning,10576
+Senior Data Scientist,New Delhi,Data Science,5189
+Senior Data Scientist,New Delhi,Data Analytics,5018
+Senior Data Scientist,New Delhi,Deep Learning,2985
+Senior Data Scientist,New Delhi,Natural Language Processing,2130
+Senior Data Scientist,New Delhi,Tensorflow,1801
+Senior Data Scientist,New Delhi,R,1285
+Senior Data Scientist,New Delhi,Predictive Modeling,781
+Senior Data Scientist,Noida,Python,39849
+Senior Data Scientist,Noida,Sql,32825
+Senior Data Scientist,Noida,Analytics,21532
+Senior Data Scientist,Noida,Analytical,20748
+Senior Data Scientist,Noida,Aws,20432
+Senior Data Scientist,Noida,Data Analysis,12957
+Senior Data Scientist,Noida,Artificial Intelligence,11014
+Senior Data Scientist,Noida,Machine Learning,10355
+Senior Data Scientist,Noida,Data Science,4995
+Senior Data Scientist,Noida,Data Analytics,4911
+Senior Data Scientist,Noida,Deep Learning,2843
+Senior Data Scientist,Noida,Natural Language Processing,2097
+Senior Data Scientist,Noida,Tensorflow,1680
+Senior Data Scientist,Noida,R,1276
+Senior Data Scientist,Noida,Predictive Modeling,739
+Data Engineer,All India,Python,41170
+Data Engineer,All India,Sql,33519
+Data Engineer,All India,Analytics,22556
+Data Engineer,All India,Aws,21532
+Data Engineer,All India,Data Modeling,6532
+Data Engineer,All India,Data Quality,5377
+Data Engineer,All India,Etl,4768
+Data Engineer,All India,Data Engineering,4466
+Data Engineer,All India,Data Warehousing,3157
+Data Engineer,All India,Pyspark,2478
+Data Engineer,All India,Big Data,2390
+Data Engineer,All India,Spark,2290
+Data Engineer,All India,Data Integration,1902
+Data Engineer,All India,Hadoop,1225
+Data Engineer,All India,Scala,1025
+Data Engineer,All India,Hive,842
+Data Engineer,Bengaluru,Python,39849
+Data Engineer,Bengaluru,Sql,32825
+Data Engineer,Bengaluru,Analytics,21532
+Data Engineer,Bengaluru,Aws,20432
+Data Engineer,Bengaluru,Data Modeling,6295
+Data Engineer,Bengaluru,Data Quality,5240
+Data Engineer,Bengaluru,Etl,4587
+Data Engineer,Bengaluru,Data Engineering,4236
+Data Engineer,Bengaluru,Data Warehousing,3090
+Data Engineer,Bengaluru,Pyspark,2385
+Data Engineer,Bengaluru,Big Data,2316
+Data Engineer,Bengaluru,Spark,2221
+Data Engineer,Bengaluru,Data Integration,1847
+Data Engineer,Bengaluru,Hadoop,1198
+Data Engineer,Bengaluru,Scala,993
+Data Engineer,Bengaluru,Hive,821
+Data Engineer,Hyderabad,Python,39848
+Data Engineer,Hyderabad,Sql,32825
+Data Engineer,Hyderabad,Analytics,21532
+Data Engineer,Hyderabad,Aws,20432
+Data Engineer,Hyderabad,Data Modeling,6295
+Data Engineer,Hyderabad,Data Quality,5240
+Data Engineer,Hyderabad,Etl,4587
+Data Engineer,Hyderabad,Data Engineering,4236
+Data Engineer,Hyderabad,Data Warehousing,3090
+Data Engineer,Hyderabad,Pyspark,2385
+Data Engineer,Hyderabad,Big Data,2316
+Data Engineer,Hyderabad,Spark,2221
+Data Engineer,Hyderabad,Data Integration,1847
+Data Engineer,Hyderabad,Hadoop,1198
+Data Engineer,Hyderabad,Scala,993
+Data Engineer,Hyderabad,Hive,821
+Data Engineer,Pune,Python,41170
+Data Engineer,Pune,Sql,33521
+Data Engineer,Pune,Analytics,22556
+Data Engineer,Pune,Aws,21532
+Data Engineer,Pune,Data Modeling,6532
+Data Engineer,Pune,Data Quality,5377
+Data Engineer,Pune,Etl,4769
+Data Engineer,Pune,Data Engineering,4466
+Data Engineer,Pune,Data Warehousing,3157
+Data Engineer,Pune,Pyspark,2478
+Data Engineer,Pune,Big Data,2390
+Data Engineer,Pune,Spark,2290
+Data Engineer,Pune,Data Integration,1902
+Data Engineer,Pune,Hadoop,1225
+Data Engineer,Pune,Scala,1025
+Data Engineer,Pune,Hive,842
+Data Engineer,Mumbai,Python,39847
+Data Engineer,Mumbai,Sql,32825
+Data Engineer,Mumbai,Analytics,21532
+Data Engineer,Mumbai,Aws,20432
+Data Engineer,Mumbai,Data Modeling,6295
+Data Engineer,Mumbai,Data Quality,5240
+Data Engineer,Mumbai,Etl,4587
+Data Engineer,Mumbai,Data Engineering,4236
+Data Engineer,Mumbai,Data Warehousing,3090
+Data Engineer,Mumbai,Pyspark,2385
+Data Engineer,Mumbai,Big Data,2316
+Data Engineer,Mumbai,Spark,2221
+Data Engineer,Mumbai,Data Integration,1847
+Data Engineer,Mumbai,Hadoop,1198
+Data Engineer,Mumbai,Scala,993
+Data Engineer,Mumbai,Hive,821
+Data Engineer,Gurgaon,Python,41170
+Data Engineer,Gurgaon,Sql,33521
+Data Engineer,Gurgaon,Analytics,22556
+Data Engineer,Gurgaon,Aws,21531
+Data Engineer,Gurgaon,Data Modeling,6532
+Data Engineer,Gurgaon,Data Quality,5377
+Data Engineer,Gurgaon,Etl,4769
+Data Engineer,Gurgaon,Data Engineering,4466
+Data Engineer,Gurgaon,Data Warehousing,3157
+Data Engineer,Gurgaon,Pyspark,2478
+Data Engineer,Gurgaon,Big Data,2390
+Data Engineer,Gurgaon,Spark,2290
+Data Engineer,Gurgaon,Data Integration,1902
+Data Engineer,Gurgaon,Hadoop,1225
+Data Engineer,Gurgaon,Scala,1025
+Data Engineer,Gurgaon,Hive,842
+Data Engineer,Chennai,Python,39848
+Data Engineer,Chennai,Sql,32826
+Data Engineer,Chennai,Analytics,21532
+Data Engineer,Chennai,Aws,20432
+Data Engineer,Chennai,Data Modeling,6295
+Data Engineer,Chennai,Data Quality,5240
+Data Engineer,Chennai,Etl,4587
+Data Engineer,Chennai,Data Engineering,4236
+Data Engineer,Chennai,Data Warehousing,3090
+Data Engineer,Chennai,Pyspark,2385
+Data Engineer,Chennai,Big Data,2316
+Data Engineer,Chennai,Spark,2221
+Data Engineer,Chennai,Data Integration,1847
+Data Engineer,Chennai,Hadoop,1198
+Data Engineer,Chennai,Scala,993
+Data Engineer,Chennai,Hive,821
+Data Engineer,New Delhi,Python,39848
+Data Engineer,New Delhi,Sql,32826
+Data Engineer,New Delhi,Analytics,21532
+Data Engineer,New Delhi,Aws,20433
+Data Engineer,New Delhi,Data Modeling,6295
+Data Engineer,New Delhi,Data Quality,5240
+Data Engineer,New Delhi,Etl,4587
+Data Engineer,New Delhi,Data Engineering,4236
+Data Engineer,New Delhi,Data Warehousing,3090
+Data Engineer,New Delhi,Pyspark,2385
+Data Engineer,New Delhi,Big Data,2316
+Data Engineer,New Delhi,Spark,2221
+Data Engineer,New Delhi,Data Integration,1847
+Data Engineer,New Delhi,Hadoop,1198
+Data Engineer,New Delhi,Scala,993
+Data Engineer,New Delhi,Hive,821
+Data Engineer,Noida,Python,39848
+Data Engineer,Noida,Sql,32826
+Data Engineer,Noida,Analytics,21532
+Data Engineer,Noida,Aws,20433
+Data Engineer,Noida,Data Modeling,6295
+Data Engineer,Noida,Data Quality,5240
+Data Engineer,Noida,Etl,4587
+Data Engineer,Noida,Data Engineering,4236
+Data Engineer,Noida,Data Warehousing,3090
+Data Engineer,Noida,Pyspark,2385
+Data Engineer,Noida,Big Data,2316
+Data Engineer,Noida,Spark,2221
+Data Engineer,Noida,Data Integration,1847
+Data Engineer,Noida,Hadoop,1198
+Data Engineer,Noida,Scala,993
+Data Engineer,Noida,Hive,821
+Machine Learning Engineer,All India,Python,39848
+Machine Learning Engineer,All India,Sql,32828
+Machine Learning Engineer,All India,Aws,20433
+Machine Learning Engineer,All India,Artificial Intelligence,11015
+Machine Learning Engineer,All India,Machine Learning,10356
+Machine Learning Engineer,All India,Gcp,6790
+Machine Learning Engineer,All India,Data Science,4996
+Machine Learning Engineer,All India,Generative Ai,4387
+Machine Learning Engineer,All India,Deep Learning,2844
+Machine Learning Engineer,All India,Spark,2221
+Machine Learning Engineer,All India,Natural Language Processing,2098
+Machine Learning Engineer,All India,Tensorflow,1680
+Machine Learning Engineer,All India,Pytorch,1646
+Machine Learning Engineer,All India,Computer Vision,1606
+Machine Learning Engineer,All India,Pandas,716
+Machine Learning Engineer,All India,Order Fulfillment,412
+Machine Learning Engineer,Bengaluru,Python,39849
+Machine Learning Engineer,Bengaluru,Sql,32829
+Machine Learning Engineer,Bengaluru,Aws,20433
+Machine Learning Engineer,Bengaluru,Artificial Intelligence,11015
+Machine Learning Engineer,Bengaluru,Machine Learning,10356
+Machine Learning Engineer,Bengaluru,Gcp,6790
+Machine Learning Engineer,Bengaluru,Data Science,4996
+Machine Learning Engineer,Bengaluru,Generative Ai,4387
+Machine Learning Engineer,Bengaluru,Deep Learning,2844
+Machine Learning Engineer,Bengaluru,Spark,2221
+Machine Learning Engineer,Bengaluru,Natural Language Processing,2098
+Machine Learning Engineer,Bengaluru,Tensorflow,1680
+Machine Learning Engineer,Bengaluru,Pytorch,1646
+Machine Learning Engineer,Bengaluru,Computer Vision,1606
+Machine Learning Engineer,Bengaluru,Pandas,716
+Machine Learning Engineer,Bengaluru,Order Fulfillment,412
+Machine Learning Engineer,Hyderabad,Python,41170
+Machine Learning Engineer,Hyderabad,Sql,33522
+Machine Learning Engineer,Hyderabad,Aws,21532
+Machine Learning Engineer,Hyderabad,Artificial Intelligence,11362
+Machine Learning Engineer,Hyderabad,Machine Learning,10576
+Machine Learning Engineer,Hyderabad,Gcp,7008
+Machine Learning Engineer,Hyderabad,Data Science,5189
+Machine Learning Engineer,Hyderabad,Generative Ai,4525
+Machine Learning Engineer,Hyderabad,Deep Learning,2985
+Machine Learning Engineer,Hyderabad,Spark,2290
+Machine Learning Engineer,Hyderabad,Natural Language Processing,2130
+Machine Learning Engineer,Hyderabad,Tensorflow,1801
+Machine Learning Engineer,Hyderabad,Pytorch,1706
+Machine Learning Engineer,Hyderabad,Computer Vision,1647
+Machine Learning Engineer,Hyderabad,Pandas,747
+Machine Learning Engineer,Hyderabad,Order Fulfillment,374
+Machine Learning Engineer,Pune,Python,41170
+Machine Learning Engineer,Pune,Sql,33522
+Machine Learning Engineer,Pune,Aws,21532
+Machine Learning Engineer,Pune,Artificial Intelligence,11362
+Machine Learning Engineer,Pune,Machine Learning,10576
+Machine Learning Engineer,Pune,Gcp,7008
+Machine Learning Engineer,Pune,Data Science,5189
+Machine Learning Engineer,Pune,Generative Ai,4525
+Machine Learning Engineer,Pune,Deep Learning,2985
+Machine Learning Engineer,Pune,Spark,2290
+Machine Learning Engineer,Pune,Natural Language Processing,2130
+Machine Learning Engineer,Pune,Tensorflow,1801
+Machine Learning Engineer,Pune,Pytorch,1706
+Machine Learning Engineer,Pune,Computer Vision,1647
+Machine Learning Engineer,Pune,Pandas,747
+Machine Learning Engineer,Pune,Order Fulfillment,374
+Machine Learning Engineer,Mumbai,Python,39848
+Machine Learning Engineer,Mumbai,Sql,32827
+Machine Learning Engineer,Mumbai,Aws,20431
+Machine Learning Engineer,Mumbai,Artificial Intelligence,11015
+Machine Learning Engineer,Mumbai,Machine Learning,10356
+Machine Learning Engineer,Mumbai,Gcp,6790
+Machine Learning Engineer,Mumbai,Data Science,4996
+Machine Learning Engineer,Mumbai,Generative Ai,4387
+Machine Learning Engineer,Mumbai,Deep Learning,2844
+Machine Learning Engineer,Mumbai,Spark,2221
+Machine Learning Engineer,Mumbai,Natural Language Processing,2098
+Machine Learning Engineer,Mumbai,Tensorflow,1680
+Machine Learning Engineer,Mumbai,Pytorch,1646
+Machine Learning Engineer,Mumbai,Computer Vision,1606
+Machine Learning Engineer,Mumbai,Pandas,716
+Machine Learning Engineer,Mumbai,Order Fulfillment,412
+Machine Learning Engineer,Gurgaon,Python,39848
+Machine Learning Engineer,Gurgaon,Sql,32827
+Machine Learning Engineer,Gurgaon,Aws,20431
+Machine Learning Engineer,Gurgaon,Artificial Intelligence,11015
+Machine Learning Engineer,Gurgaon,Machine Learning,10356
+Machine Learning Engineer,Gurgaon,Gcp,6790
+Machine Learning Engineer,Gurgaon,Data Science,4996
+Machine Learning Engineer,Gurgaon,Generative Ai,4387
+Machine Learning Engineer,Gurgaon,Deep Learning,2844
+Machine Learning Engineer,Gurgaon,Spark,2221
+Machine Learning Engineer,Gurgaon,Natural Language Processing,2098
+Machine Learning Engineer,Gurgaon,Tensorflow,1680
+Machine Learning Engineer,Gurgaon,Pytorch,1646
+Machine Learning Engineer,Gurgaon,Computer Vision,1606
+Machine Learning Engineer,Gurgaon,Pandas,716
+Machine Learning Engineer,Gurgaon,Order Fulfillment,412
+Machine Learning Engineer,Chennai,Python,39848
+Machine Learning Engineer,Chennai,Sql,32827
+Machine Learning Engineer,Chennai,Aws,20431
+Machine Learning Engineer,Chennai,Artificial Intelligence,11015
+Machine Learning Engineer,Chennai,Machine Learning,10356
+Machine Learning Engineer,Chennai,Gcp,6790
+Machine Learning Engineer,Chennai,Data Science,4996
+Machine Learning Engineer,Chennai,Generative Ai,4387
+Machine Learning Engineer,Chennai,Deep Learning,2844
+Machine Learning Engineer,Chennai,Spark,2221
+Machine Learning Engineer,Chennai,Natural Language Processing,2098
+Machine Learning Engineer,Chennai,Tensorflow,1680
+Machine Learning Engineer,Chennai,Pytorch,1646
+Machine Learning Engineer,Chennai,Computer Vision,1606
+Machine Learning Engineer,Chennai,Pandas,716
+Machine Learning Engineer,Chennai,Order Fulfillment,412
+Machine Learning Engineer,New Delhi,Python,39848
+Machine Learning Engineer,New Delhi,Sql,32827
+Machine Learning Engineer,New Delhi,Aws,20431
+Machine Learning Engineer,New Delhi,Artificial Intelligence,11015
+Machine Learning Engineer,New Delhi,Machine Learning,10356
+Machine Learning Engineer,New Delhi,Gcp,6790
+Machine Learning Engineer,New Delhi,Data Science,4996
+Machine Learning Engineer,New Delhi,Generative Ai,4387
+Machine Learning Engineer,New Delhi,Deep Learning,2844
+Machine Learning Engineer,New Delhi,Spark,2221
+Machine Learning Engineer,New Delhi,Natural Language Processing,2098
+Machine Learning Engineer,New Delhi,Tensorflow,1680
+Machine Learning Engineer,New Delhi,Pytorch,1646
+Machine Learning Engineer,New Delhi,Computer Vision,1606
+Machine Learning Engineer,New Delhi,Pandas,716
+Machine Learning Engineer,New Delhi,Order Fulfillment,412
+Machine Learning Engineer,Noida,Python,39849
+Machine Learning Engineer,Noida,Sql,32828
+Machine Learning Engineer,Noida,Aws,20431
+Machine Learning Engineer,Noida,Artificial Intelligence,11015
+Machine Learning Engineer,Noida,Machine Learning,10357
+Machine Learning Engineer,Noida,Gcp,6790
+Machine Learning Engineer,Noida,Data Science,4996
+Machine Learning Engineer,Noida,Generative Ai,4387
+Machine Learning Engineer,Noida,Deep Learning,2844
+Machine Learning Engineer,Noida,Spark,2221
+Machine Learning Engineer,Noida,Natural Language Processing,2098
+Machine Learning Engineer,Noida,Tensorflow,1680
+Machine Learning Engineer,Noida,Pytorch,1646
+Machine Learning Engineer,Noida,Computer Vision,1606
+Machine Learning Engineer,Noida,Pandas,717
+Machine Learning Engineer,Noida,Order Fulfillment,412
+AI Engineer,All India,Python,39708
+AI Engineer,All India,Automation,33245
+AI Engineer,All India,Sql,32627
+AI Engineer,All India,Java,20925
+AI Engineer,All India,Aws,20325
+AI Engineer,All India,Artificial Intelligence,11018
+AI Engineer,All India,Machine Learning,10348
+AI Engineer,All India,Gcp,6715
+AI Engineer,All India,Data Science,4995
+AI Engineer,All India,Generative Ai,4379
+AI Engineer,All India,Deep Learning,2843
+AI Engineer,All India,Natural Language Processing,2094
+AI Engineer,All India,Tensorflow,1672
+AI Engineer,All India,Pytorch,1637
+AI Engineer,All India,Computer Vision,1596
+AI Engineer,All India,Order Fulfillment,412
+AI Engineer,Bengaluru,Python,39598
+AI Engineer,Bengaluru,Automation,32835
+AI Engineer,Bengaluru,Sql,32393
+AI Engineer,Bengaluru,Java,20882
+AI Engineer,Bengaluru,Aws,20376
+AI Engineer,Bengaluru,Artificial Intelligence,11100
+AI Engineer,Bengaluru,Machine Learning,10370
+AI Engineer,Bengaluru,Gcp,6760
+AI Engineer,Bengaluru,Data Science,5013
+AI Engineer,Bengaluru,Generative Ai,4426
+AI Engineer,Bengaluru,Deep Learning,2820
+AI Engineer,Bengaluru,Natural Language Processing,2067
+AI Engineer,Bengaluru,Tensorflow,1684
+AI Engineer,Bengaluru,Pytorch,1643
+AI Engineer,Bengaluru,Computer Vision,1592
+AI Engineer,Bengaluru,Order Fulfillment,435
+AI Engineer,Hyderabad,Python,39851
+AI Engineer,Hyderabad,Automation,33284
+AI Engineer,Hyderabad,Sql,32831
+AI Engineer,Hyderabad,Java,21049
+AI Engineer,Hyderabad,Aws,20434
+AI Engineer,Hyderabad,Artificial Intelligence,11015
+AI Engineer,Hyderabad,Machine Learning,10357
+AI Engineer,Hyderabad,Gcp,6790
+AI Engineer,Hyderabad,Data Science,4996
+AI Engineer,Hyderabad,Generative Ai,4387
+AI Engineer,Hyderabad,Deep Learning,2844
+AI Engineer,Hyderabad,Natural Language Processing,2098
+AI Engineer,Hyderabad,Tensorflow,1680
+AI Engineer,Hyderabad,Pytorch,1646
+AI Engineer,Hyderabad,Computer Vision,1606
+AI Engineer,Hyderabad,Order Fulfillment,412
+AI Engineer,Pune,Python,39852
+AI Engineer,Pune,Automation,33284
+AI Engineer,Pune,Sql,32832
+AI Engineer,Pune,Java,21049
+AI Engineer,Pune,Aws,20434
+AI Engineer,Pune,Artificial Intelligence,11015
+AI Engineer,Pune,Machine Learning,10357
+AI Engineer,Pune,Gcp,6790
+AI Engineer,Pune,Data Science,4996
+AI Engineer,Pune,Generative Ai,4387
+AI Engineer,Pune,Deep Learning,2844
+AI Engineer,Pune,Natural Language Processing,2098
+AI Engineer,Pune,Tensorflow,1680
+AI Engineer,Pune,Pytorch,1646
+AI Engineer,Pune,Computer Vision,1606
+AI Engineer,Pune,Order Fulfillment,412
+AI Engineer,Mumbai,Python,39852
+AI Engineer,Mumbai,Automation,33285
+AI Engineer,Mumbai,Sql,32833
+AI Engineer,Mumbai,Java,21049
+AI Engineer,Mumbai,Aws,20434
+AI Engineer,Mumbai,Artificial Intelligence,11015
+AI Engineer,Mumbai,Machine Learning,10357
+AI Engineer,Mumbai,Gcp,6790
+AI Engineer,Mumbai,Data Science,4996
+AI Engineer,Mumbai,Generative Ai,4387
+AI Engineer,Mumbai,Deep Learning,2844
+AI Engineer,Mumbai,Natural Language Processing,2098
+AI Engineer,Mumbai,Tensorflow,1680
+AI Engineer,Mumbai,Pytorch,1646
+AI Engineer,Mumbai,Computer Vision,1606
+AI Engineer,Mumbai,Order Fulfillment,412
+AI Engineer,Gurgaon,Python,39852
+AI Engineer,Gurgaon,Automation,33285
+AI Engineer,Gurgaon,Sql,32834
+AI Engineer,Gurgaon,Java,21049
+AI Engineer,Gurgaon,Aws,20434
+AI Engineer,Gurgaon,Artificial Intelligence,11015
+AI Engineer,Gurgaon,Machine Learning,10357
+AI Engineer,Gurgaon,Gcp,6790
+AI Engineer,Gurgaon,Data Science,4996
+AI Engineer,Gurgaon,Generative Ai,4387
+AI Engineer,Gurgaon,Deep Learning,2844
+AI Engineer,Gurgaon,Natural Language Processing,2098
+AI Engineer,Gurgaon,Tensorflow,1680
+AI Engineer,Gurgaon,Pytorch,1646
+AI Engineer,Gurgaon,Computer Vision,1606
+AI Engineer,Gurgaon,Order Fulfillment,412
+AI Engineer,Chennai,Python,39851
+AI Engineer,Chennai,Automation,33285
+AI Engineer,Chennai,Sql,32833
+AI Engineer,Chennai,Java,21049
+AI Engineer,Chennai,Aws,20434
+AI Engineer,Chennai,Artificial Intelligence,11015
+AI Engineer,Chennai,Machine Learning,10357
+AI Engineer,Chennai,Gcp,6790
+AI Engineer,Chennai,Data Science,4996
+AI Engineer,Chennai,Generative Ai,4387
+AI Engineer,Chennai,Deep Learning,2844
+AI Engineer,Chennai,Natural Language Processing,2098
+AI Engineer,Chennai,Tensorflow,1680
+AI Engineer,Chennai,Pytorch,1646
+AI Engineer,Chennai,Computer Vision,1606
+AI Engineer,Chennai,Order Fulfillment,412
+AI Engineer,New Delhi,Python,39850
+AI Engineer,New Delhi,Automation,33285
+AI Engineer,New Delhi,Sql,32832
+AI Engineer,New Delhi,Java,21049
+AI Engineer,New Delhi,Aws,20434
+AI Engineer,New Delhi,Artificial Intelligence,11015
+AI Engineer,New Delhi,Machine Learning,10357
+AI Engineer,New Delhi,Gcp,6790
+AI Engineer,New Delhi,Data Science,4996
+AI Engineer,New Delhi,Generative Ai,4387
+AI Engineer,New Delhi,Deep Learning,2844
+AI Engineer,New Delhi,Natural Language Processing,2098
+AI Engineer,New Delhi,Tensorflow,1680
+AI Engineer,New Delhi,Pytorch,1646
+AI Engineer,New Delhi,Computer Vision,1606
+AI Engineer,New Delhi,Order Fulfillment,412
+AI Engineer,Noida,Python,39850
+AI Engineer,Noida,Automation,33285
+AI Engineer,Noida,Sql,32832
+AI Engineer,Noida,Java,21050
+AI Engineer,Noida,Aws,20434
+AI Engineer,Noida,Artificial Intelligence,11015
+AI Engineer,Noida,Machine Learning,10357
+AI Engineer,Noida,Gcp,6790
+AI Engineer,Noida,Data Science,4996
+AI Engineer,Noida,Generative Ai,4387
+AI Engineer,Noida,Deep Learning,2844
+AI Engineer,Noida,Natural Language Processing,2098
+AI Engineer,Noida,Tensorflow,1680
+AI Engineer,Noida,Pytorch,1646
+AI Engineer,Noida,Computer Vision,1606
+AI Engineer,Noida,Order Fulfillment,412
+Business Analyst,All India,Sql,32832
+Business Analyst,All India,Agile,28411
+Business Analyst,All India,Project Management,24685
+Business Analyst,All India,Analytics,21532
+Business Analyst,All India,Analytical,20750
+Business Analyst,All India,Data Analysis,12958
+Business Analyst,All India,Jira,6859
+Business Analyst,All India,Business Analysis,5325
+Business Analyst,All India,Scrum,4308
+Business Analyst,All India,Business Analyst,2448
+Business Analyst,All India,Requirement Gathering,1485
+Business Analyst,All India,Business Analytics,1233
+Business Analyst,All India,User Stories,672
+Business Analyst,All India,Brd,514
+Business Analyst,All India,Frd,331
+Business Analyst,All India,It Business Analysis,20
+Business Analyst,Bengaluru,Sql,32832
+Business Analyst,Bengaluru,Agile,28411
+Business Analyst,Bengaluru,Project Management,24685
+Business Analyst,Bengaluru,Analytics,21532
+Business Analyst,Bengaluru,Analytical,20750
+Business Analyst,Bengaluru,Data Analysis,12958
+Business Analyst,Bengaluru,Jira,6859
+Business Analyst,Bengaluru,Business Analysis,5325
+Business Analyst,Bengaluru,Scrum,4308
+Business Analyst,Bengaluru,Business Analyst,2448
+Business Analyst,Bengaluru,Requirement Gathering,1485
+Business Analyst,Bengaluru,Business Analytics,1233
+Business Analyst,Bengaluru,User Stories,672
+Business Analyst,Bengaluru,Brd,514
+Business Analyst,Bengaluru,Frd,331
+Business Analyst,Bengaluru,It Business Analysis,20
+Business Analyst,Hyderabad,Sql,32832
+Business Analyst,Hyderabad,Agile,28410
+Business Analyst,Hyderabad,Project Management,24685
+Business Analyst,Hyderabad,Analytics,21532
+Business Analyst,Hyderabad,Analytical,20750
+Business Analyst,Hyderabad,Data Analysis,12958
+Business Analyst,Hyderabad,Jira,6859
+Business Analyst,Hyderabad,Business Analysis,5325
+Business Analyst,Hyderabad,Scrum,4308
+Business Analyst,Hyderabad,Business Analyst,2448
+Business Analyst,Hyderabad,Requirement Gathering,1485
+Business Analyst,Hyderabad,Business Analytics,1233
+Business Analyst,Hyderabad,User Stories,672
+Business Analyst,Hyderabad,Brd,514
+Business Analyst,Hyderabad,Frd,331
+Business Analyst,Hyderabad,It Business Analysis,20
+Business Analyst,Pune,Sql,33524
+Business Analyst,Pune,Agile,29609
+Business Analyst,Pune,Project Management,24937
+Business Analyst,Pune,Analytics,22556
+Business Analyst,Pune,Analytical,20628
+Business Analyst,Pune,Data Analysis,13258
+Business Analyst,Pune,Jira,7023
+Business Analyst,Pune,Business Analysis,5577
+Business Analyst,Pune,Scrum,4476
+Business Analyst,Pune,Business Analyst,2514
+Business Analyst,Pune,Requirement Gathering,1533
+Business Analyst,Pune,Business Analytics,1268
+Business Analyst,Pune,User Stories,684
+Business Analyst,Pune,Brd,541
+Business Analyst,Pune,Frd,345
+Business Analyst,Pune,It Business Analysis,20
+Business Analyst,Mumbai,Sql,32835
+Business Analyst,Mumbai,Agile,28413
+Business Analyst,Mumbai,Project Management,24685
+Business Analyst,Mumbai,Analytics,21532
+Business Analyst,Mumbai,Analytical,20750
+Business Analyst,Mumbai,Data Analysis,12958
+Business Analyst,Mumbai,Jira,6861
+Business Analyst,Mumbai,Business Analysis,5325
+Business Analyst,Mumbai,Scrum,4309
+Business Analyst,Mumbai,Business Analyst,2450
+Business Analyst,Mumbai,Requirement Gathering,1485
+Business Analyst,Mumbai,Business Analytics,1233
+Business Analyst,Mumbai,User Stories,672
+Business Analyst,Mumbai,Brd,514
+Business Analyst,Mumbai,Frd,331
+Business Analyst,Mumbai,It Business Analysis,20
+Business Analyst,Gurgaon,Sql,32839
+Business Analyst,Gurgaon,Agile,28413
+Business Analyst,Gurgaon,Project Management,24687
+Business Analyst,Gurgaon,Analytics,21535
+Business Analyst,Gurgaon,Analytical,20751
+Business Analyst,Gurgaon,Data Analysis,12958
+Business Analyst,Gurgaon,Jira,6861
+Business Analyst,Gurgaon,Business Analysis,5325
+Business Analyst,Gurgaon,Scrum,4309
+Business Analyst,Gurgaon,Business Analyst,2451
+Business Analyst,Gurgaon,Requirement Gathering,1485
+Business Analyst,Gurgaon,Business Analytics,1233
+Business Analyst,Gurgaon,User Stories,672
+Business Analyst,Gurgaon,Brd,514
+Business Analyst,Gurgaon,Frd,331
+Business Analyst,Gurgaon,It Business Analysis,20
+Business Analyst,Chennai,Sql,32840
+Business Analyst,Chennai,Agile,28415
+Business Analyst,Chennai,Project Management,24687
+Business Analyst,Chennai,Analytics,21538
+Business Analyst,Chennai,Analytical,20751
+Business Analyst,Chennai,Data Analysis,12958
+Business Analyst,Chennai,Jira,6861
+Business Analyst,Chennai,Business Analysis,5325
+Business Analyst,Chennai,Scrum,4310
+Business Analyst,Chennai,Business Analyst,2455
+Business Analyst,Chennai,Requirement Gathering,1485
+Business Analyst,Chennai,Business Analytics,1233
+Business Analyst,Chennai,User Stories,672
+Business Analyst,Chennai,Brd,514
+Business Analyst,Chennai,Frd,331
+Business Analyst,Chennai,It Business Analysis,20
+Business Analyst,New Delhi,Sql,32841
+Business Analyst,New Delhi,Agile,28415
+Business Analyst,New Delhi,Project Management,24687
+Business Analyst,New Delhi,Analytics,21538
+Business Analyst,New Delhi,Analytical,20751
+Business Analyst,New Delhi,Data Analysis,12958
+Business Analyst,New Delhi,Jira,6861
+Business Analyst,New Delhi,Business Analysis,5325
+Business Analyst,New Delhi,Scrum,4310
+Business Analyst,New Delhi,Business Analyst,2455
+Business Analyst,New Delhi,Requirement Gathering,1485
+Business Analyst,New Delhi,Business Analytics,1233
+Business Analyst,New Delhi,User Stories,672
+Business Analyst,New Delhi,Brd,514
+Business Analyst,New Delhi,Frd,331
+Business Analyst,New Delhi,It Business Analysis,20
+Business Analyst,Noida,Sql,32841
+Business Analyst,Noida,Agile,28415
+Business Analyst,Noida,Project Management,24687
+Business Analyst,Noida,Analytics,21538
+Business Analyst,Noida,Analytical,20751
+Business Analyst,Noida,Data Analysis,12958
+Business Analyst,Noida,Jira,6861
+Business Analyst,Noida,Business Analysis,5325
+Business Analyst,Noida,Scrum,4310
+Business Analyst,Noida,Business Analyst,2455
+Business Analyst,Noida,Requirement Gathering,1485
+Business Analyst,Noida,Business Analytics,1233
+Business Analyst,Noida,User Stories,672
+Business Analyst,Noida,Brd,514
+Business Analyst,Noida,Frd,331
+Business Analyst,Noida,It Business Analysis,20
+Data Science Analyst,All India,Python,39861
+Data Science Analyst,All India,Sql,32841
+Data Science Analyst,All India,Analytics,21538
+Data Science Analyst,All India,Analytical,20751
+Data Science Analyst,All India,Aws,20440
+Data Science Analyst,All India,Data Analysis,12958
+Data Science Analyst,All India,Artificial Intelligence,11016
+Data Science Analyst,All India,Machine Learning,10359
+Data Science Analyst,All India,Gcp,6794
+Data Science Analyst,All India,Data Science,4996
+Data Science Analyst,All India,Data Analytics,4913
+Data Science Analyst,All India,Power Bi,4347
+Data Science Analyst,All India,Data Visualization,2429
+Data Science Analyst,All India,Tableau,2392
+Data Science Analyst,All India,Statistics,1451
+Data Science Analyst,All India,Predictive Modeling,739
+Data Science Analyst,Bengaluru,Python,39864
+Data Science Analyst,Bengaluru,Sql,32842
+Data Science Analyst,Bengaluru,Analytics,21538
+Data Science Analyst,Bengaluru,Analytical,20751
+Data Science Analyst,Bengaluru,Aws,20442
+Data Science Analyst,Bengaluru,Data Analysis,12958
+Data Science Analyst,Bengaluru,Artificial Intelligence,11017
+Data Science Analyst,Bengaluru,Machine Learning,10359
+Data Science Analyst,Bengaluru,Gcp,6794
+Data Science Analyst,Bengaluru,Data Science,4996
+Data Science Analyst,Bengaluru,Data Analytics,4913
+Data Science Analyst,Bengaluru,Power Bi,4347
+Data Science Analyst,Bengaluru,Data Visualization,2429
+Data Science Analyst,Bengaluru,Tableau,2392
+Data Science Analyst,Bengaluru,Statistics,1451
+Data Science Analyst,Bengaluru,Predictive Modeling,739
+Data Science Analyst,Hyderabad,Python,39862
+Data Science Analyst,Hyderabad,Sql,32841
+Data Science Analyst,Hyderabad,Analytics,21538
+Data Science Analyst,Hyderabad,Analytical,20751
+Data Science Analyst,Hyderabad,Aws,20442
+Data Science Analyst,Hyderabad,Data Analysis,12958
+Data Science Analyst,Hyderabad,Artificial Intelligence,11017
+Data Science Analyst,Hyderabad,Machine Learning,10359
+Data Science Analyst,Hyderabad,Gcp,6794
+Data Science Analyst,Hyderabad,Data Science,4996
+Data Science Analyst,Hyderabad,Data Analytics,4913
+Data Science Analyst,Hyderabad,Power Bi,4347
+Data Science Analyst,Hyderabad,Data Visualization,2429
+Data Science Analyst,Hyderabad,Tableau,2392
+Data Science Analyst,Hyderabad,Statistics,1451
+Data Science Analyst,Hyderabad,Predictive Modeling,739
+Data Science Analyst,Pune,Python,39864
+Data Science Analyst,Pune,Sql,32842
+Data Science Analyst,Pune,Analytics,21538
+Data Science Analyst,Pune,Analytical,20751
+Data Science Analyst,Pune,Aws,20441
+Data Science Analyst,Pune,Data Analysis,12958
+Data Science Analyst,Pune,Artificial Intelligence,11017
+Data Science Analyst,Pune,Machine Learning,10359
+Data Science Analyst,Pune,Gcp,6794
+Data Science Analyst,Pune,Data Science,4996
+Data Science Analyst,Pune,Data Analytics,4913
+Data Science Analyst,Pune,Power Bi,4347
+Data Science Analyst,Pune,Data Visualization,2429
+Data Science Analyst,Pune,Tableau,2392
+Data Science Analyst,Pune,Statistics,1451
+Data Science Analyst,Pune,Predictive Modeling,739
+Data Science Analyst,Mumbai,Python,41176
+Data Science Analyst,Mumbai,Sql,33525
+Data Science Analyst,Mumbai,Analytics,22556
+Data Science Analyst,Mumbai,Aws,21534
+Data Science Analyst,Mumbai,Analytical,20628
+Data Science Analyst,Mumbai,Data Analysis,13258
+Data Science Analyst,Mumbai,Artificial Intelligence,11361
+Data Science Analyst,Mumbai,Machine Learning,10578
+Data Science Analyst,Mumbai,Gcp,7010
+Data Science Analyst,Mumbai,Data Science,5189
+Data Science Analyst,Mumbai,Data Analytics,5018
+Data Science Analyst,Mumbai,Power Bi,4486
+Data Science Analyst,Mumbai,Data Visualization,2444
+Data Science Analyst,Mumbai,Tableau,2408
+Data Science Analyst,Mumbai,Statistics,1477
+Data Science Analyst,Mumbai,Predictive Modeling,781
+Data Science Analyst,Gurgaon,Python,39866
+Data Science Analyst,Gurgaon,Sql,32842
+Data Science Analyst,Gurgaon,Analytics,21538
+Data Science Analyst,Gurgaon,Analytical,20751
+Data Science Analyst,Gurgaon,Aws,20441
+Data Science Analyst,Gurgaon,Data Analysis,12958
+Data Science Analyst,Gurgaon,Artificial Intelligence,11017
+Data Science Analyst,Gurgaon,Machine Learning,10359
+Data Science Analyst,Gurgaon,Gcp,6794
+Data Science Analyst,Gurgaon,Data Science,4996
+Data Science Analyst,Gurgaon,Data Analytics,4913
+Data Science Analyst,Gurgaon,Power Bi,4347
+Data Science Analyst,Gurgaon,Data Visualization,2429
+Data Science Analyst,Gurgaon,Tableau,2392
+Data Science Analyst,Gurgaon,Statistics,1451
+Data Science Analyst,Gurgaon,Predictive Modeling,739
+Data Science Analyst,Chennai,Python,41176
+Data Science Analyst,Chennai,Sql,33525
+Data Science Analyst,Chennai,Analytics,22556
+Data Science Analyst,Chennai,Aws,21534
+Data Science Analyst,Chennai,Analytical,20628
+Data Science Analyst,Chennai,Data Analysis,13258
+Data Science Analyst,Chennai,Artificial Intelligence,11361
+Data Science Analyst,Chennai,Machine Learning,10578
+Data Science Analyst,Chennai,Gcp,7010
+Data Science Analyst,Chennai,Data Science,5189
+Data Science Analyst,Chennai,Data Analytics,5018
+Data Science Analyst,Chennai,Power Bi,4486
+Data Science Analyst,Chennai,Data Visualization,2444
+Data Science Analyst,Chennai,Tableau,2408
+Data Science Analyst,Chennai,Statistics,1477
+Data Science Analyst,Chennai,Predictive Modeling,781
+Data Science Analyst,New Delhi,Python,39872
+Data Science Analyst,New Delhi,Sql,32845
+Data Science Analyst,New Delhi,Analytics,21538
+Data Science Analyst,New Delhi,Analytical,20751
+Data Science Analyst,New Delhi,Aws,20441
+Data Science Analyst,New Delhi,Data Analysis,12958
+Data Science Analyst,New Delhi,Artificial Intelligence,11018
+Data Science Analyst,New Delhi,Machine Learning,10360
+Data Science Analyst,New Delhi,Gcp,6794
+Data Science Analyst,New Delhi,Data Science,4996
+Data Science Analyst,New Delhi,Data Analytics,4913
+Data Science Analyst,New Delhi,Power Bi,4347
+Data Science Analyst,New Delhi,Data Visualization,2429
+Data Science Analyst,New Delhi,Tableau,2392
+Data Science Analyst,New Delhi,Statistics,1451
+Data Science Analyst,New Delhi,Predictive Modeling,739
+Data Science Analyst,Noida,Python,39871
+Data Science Analyst,Noida,Sql,32844
+Data Science Analyst,Noida,Analytics,21538
+Data Science Analyst,Noida,Analytical,20751
+Data Science Analyst,Noida,Aws,20440
+Data Science Analyst,Noida,Data Analysis,12958
+Data Science Analyst,Noida,Artificial Intelligence,11018
+Data Science Analyst,Noida,Machine Learning,10360
+Data Science Analyst,Noida,Gcp,6793
+Data Science Analyst,Noida,Data Science,4996
+Data Science Analyst,Noida,Data Analytics,4913
+Data Science Analyst,Noida,Power Bi,4347
+Data Science Analyst,Noida,Data Visualization,2429
+Data Science Analyst,Noida,Tableau,2392
+Data Science Analyst,Noida,Statistics,1451
+Data Science Analyst,Noida,Predictive Modeling,739

@@ -1,0 +1,73 @@
+role,location,total_reports,total_jobs,median_ctc_lpa
+Data Analyst,All India,148565,847,6.86
+Data Analyst,Bengaluru,34910,864,7.23
+Data Analyst,Hyderabad,18220,864,6.95
+Data Analyst,Pune,16990,860,6.76
+Data Analyst,Mumbai,10323,864,6.7
+Data Analyst,Gurgaon,9813,864,7.46
+Data Analyst,Chennai,10838,864,6.63
+Data Analyst,New Delhi,11059,855,7.09
+Data Analyst,Noida,5861,855,7.08
+Data Scientist,All India,61578,1267,16.09
+Data Scientist,Bengaluru,18740,1268,16.74
+Data Scientist,Hyderabad,7174,1278,16.37
+Data Scientist,Pune,8166,1269,15.43
+Data Scientist,Mumbai,4438,1278,15.95
+Data Scientist,Gurgaon,3814,1278,17.61
+Data Scientist,Chennai,2844,1278,16.32
+Data Scientist,New Delhi,3010,1267,16.17
+Data Scientist,Noida,1857,1278,15.93
+Senior Data Scientist,All India,17194,501,29.78
+Senior Data Scientist,Bengaluru,6720,501,30.33
+Senior Data Scientist,Hyderabad,1712,501,30.14
+Senior Data Scientist,Pune,1517,523,28.01
+Senior Data Scientist,Mumbai,939,523,28.16
+Senior Data Scientist,Gurgaon,1353,501,30.27
+Senior Data Scientist,Chennai,748,501,28.12
+Senior Data Scientist,New Delhi,651,523,30.27
+Senior Data Scientist,Noida,572,501,29.35
+Data Engineer,All India,111570,2318,12.06
+Data Engineer,Bengaluru,30186,2193,12.11
+Data Engineer,Hyderabad,20426,2193,11.64
+Data Engineer,Pune,18560,2318,11.24
+Data Engineer,Mumbai,5082,2193,11.15
+Data Engineer,Gurgaon,3991,2318,13.57
+Data Engineer,Chennai,8555,2193,10.84
+Data Engineer,New Delhi,2789,2193,11.44
+Data Engineer,Noida,3391,2193,10.73
+Machine Learning Engineer,All India,9796,337,13.26
+Machine Learning Engineer,Bengaluru,2626,337,14.18
+Machine Learning Engineer,Hyderabad,1255,351,13.32
+Machine Learning Engineer,Pune,1504,351,10.79
+Machine Learning Engineer,Mumbai,655,337,11.37
+Machine Learning Engineer,Gurgaon,326,337,13.7
+Machine Learning Engineer,Chennai,645,337,11.42
+Machine Learning Engineer,New Delhi,441,337,12.46
+Machine Learning Engineer,Noida,328,337,10.92
+AI Engineer,All India,5162,1297,15.91
+AI Engineer,Bengaluru,1428,1301,16.94
+AI Engineer,Hyderabad,747,1302,16.53
+AI Engineer,Pune,568,1302,14.51
+AI Engineer,Mumbai,225,1302,17.89
+AI Engineer,Gurgaon,197,1302,15.98
+AI Engineer,Chennai,303,1302,11.88
+AI Engineer,New Delhi,147,1302,12.29
+AI Engineer,Noida,180,1302,11.53
+Business Analyst,All India,151646,1789,10.03
+Business Analyst,Bengaluru,33166,1789,10.65
+Business Analyst,Hyderabad,17004,1789,10.6
+Business Analyst,Pune,17183,1832,10.48
+Business Analyst,Mumbai,14395,1789,10.42
+Business Analyst,Gurgaon,10466,1789,10.4
+Business Analyst,Chennai,11127,1789,10.29
+Business Analyst,New Delhi,10877,1789,10.09
+Business Analyst,Noida,7138,1789,9.56
+Data Science Analyst,All India,1737,65,12.7
+Data Science Analyst,Bengaluru,539,65,13.33
+Data Science Analyst,Hyderabad,124,65,13.39
+Data Science Analyst,Pune,128,65,13.49
+Data Science Analyst,Mumbai,119,66,13.77
+Data Science Analyst,Gurgaon,241,65,13.17
+Data Science Analyst,Chennai,87,66,12.68
+Data Science Analyst,New Delhi,142,65,12.97
+Data Science Analyst,Noida,50,65,13.71
