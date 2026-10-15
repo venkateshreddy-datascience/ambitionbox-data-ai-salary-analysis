@@ -66,10 +66,10 @@ Website selection -> Data collection -> Data understanding -> Data cleaning -> D
 - **Skills:** Python and SQL are the most asked-for skills, about 2.5 times more than AWS.
 - **Openings:** Data Engineer (2,318) and Business Analyst (1,789) have more openings than Data Scientist (1,267).
 
-![Salary by role](images/role_salary.png)
-![Salary by city](images/city_salary.png)
-![Top paying companies](images/top_companies.png)
-![Salary vs experience](images/experience_salary.png)
+![Salary by role](role_salary.png)
+![Salary by city](city_salary.png)
+![Top paying companies](top_companies.png)
+![Salary vs experience](experience_salary.png)
 
 ## Limitations
 - Salaries are company averages for a role, not one person's pay.
@@ -93,4 +93,4 @@ Python, requests, BeautifulSoup, json, regex ('re'), pandas, NumPy, Matplotlib, 
 The data was collected from AmbitionBox's public pages for learning purposes only. All data belongs to AmbitionBox.
 
 ## Author
-Venkatesh Reddy Munagala | [LinkedIn](www.linkedin.com/in/venkatesh-reddy-munagala-77b285425) | [GitHub](https://github.com/venkateshreddy-datascience)
+Venkatesh Reddy Munagala | [LinkedIn](https://www.linkedin.com/in/venkatesh-reddy-munagala-77b285425) | [GitHub](https://github.com/venkateshreddy-datascience)
